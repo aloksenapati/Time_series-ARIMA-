@@ -1,4 +1,4 @@
 # Time_series-ARIMA-
 
 complete project of time series analysis from data preprocessing to model like MA,AR & ARIMA.
-This project of sales data and forecasting of sales in future
+This project of airpassenger data and forecasting of airpassenger booking in future.
